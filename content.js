@@ -34,10 +34,10 @@ window.PROFILE = {
       title: "Ultrafast Nonlinear Optical Spectroscopy & Laser Development",
       text: "Developed a three-color femtosecond CARS platform with tunable optical parametric oscillators, high-resolution imaging, and ultrafast pulse diagnostics to investigate vibrational and phonon dynamics, integrating modeling, simulations, and automated optical instrumentation.",
       details: [
-    "Designed and optimized a three-color time-domain Coherent Anti-Stokes Raman Scattering (CARS) spectroscopy system with ~120 fs temporal resolution for measuring Raman-active vibrational modes across 150–3100 cm⁻¹ using synchronously pumped femtosecond optical parametric oscillators driven by a mode-locked Ti:Sapphire laser.",
+    "Designed and optimized a three-color time-domain Coherent Anti-Stokes Raman Scattering (CARS) spectroscopy system with ~120 fs temporal resolution for measuring Raman-active vibrational modes across 150-3100 cm⁻¹ using synchronously pumped femtosecond optical parametric oscillators driven by a mode-locked Ti:Sapphire laser.",
     "Engineered broadly tunable femtosecond optical parametric oscillators using quasi-phase-matched nonlinear crystals (PPSLT and MgO:PPLN), including cavity design, dispersion management, and broadband gain and tuning-curve calculations.",
-    "Implemented wavelength tuning and stabilization using intracavity Lyot filters, prism-pair dispersion control, and PZT-mounted cavity mirrors for active cavity-length stabilization, achieving stable output tuning between 976–1320 nm.",
-    "Performed ultrafast pulse diagnostics using cross- and auto-correlation techniques (120–200 fs) with angle-tuned BBO crystals and designed external prism-based dispersion compensation for pulse compression.",
+    "Implemented wavelength tuning and stabilization using intracavity Lyot filters, prism-pair dispersion control, and PZT-mounted cavity mirrors for active cavity-length stabilization, achieving stable output tuning between 976-1320 nm.",
+    "Performed ultrafast pulse diagnostics using cross- and auto-correlation techniques (120-200 fs) with angle-tuned BBO crystals and designed external prism-based dispersion compensation for pulse compression.",
     "Developed the imaging arm of the CARS platform achieving ~200 × 500 nm spatial resolution with high-NA objectives, integrating monochromator-CCD detection systems for gated spectral acquisition.",
     "Conducted time-resolved investigations of phonon and vibrational dynamics in technologically relevant materials including BaSnO₃, SrTiO₃, LiNbO₃, KTP, PETN, and RDX.",
     "Developed theoretical models of time-domain CARS signals and implemented numerical simulations and data analysis pipelines in MATLAB and Python.",
@@ -61,7 +61,7 @@ window.PROFILE = {
       text: "Engineered a non-contact photoacoustic imaging system using pulsed laser excitation and laser Doppler vibrometry, with synchronized detection and time-resolved subsurface imaging for sensitive, depth-resolved characterization of embedded structures.",
       details: [
     "Designed and implemented a non-contact photoacoustic imaging platform combining pulsed laser excitation with laser Doppler vibrometry detection for remote acoustic sensing.",
-    "Built a synchronized excitation–detection architecture enabling precise temporal alignment between optical absorption events and surface vibration measurements.",
+    "Built a synchronized excitation-detection architecture enabling precise temporal alignment between optical absorption events and surface vibration measurements.",
     "Engineered electronic timing and trigger control systems to synchronize laser pulses, LDV acquisition, and data recording hardware.",
     "Developed a time-resolved subsurface imaging methodology based on acoustic waveform propagation and arrival-time analysis to enable depth-resolved characterization of embedded structures.",
     "Optimized signal acquisition and processing workflows to enhance sensitivity and spatial resolution in non-contact photoacoustic measurements."
@@ -69,9 +69,9 @@ window.PROFILE = {
     }
   ],
 
-  /* Entry shape: { period: "2018 – 2023", title: "PhD, Physics", org: "University", detail: "Optional note" } */
+  /* Entry shape: { period: "2018 - 2023", title: "PhD, Physics", org: "University", detail: "Optional note" } */
   education: [
-    {period: "Jan 2021 - Aug 2026", title: "PhD in Physics (Photonics & Ultrafast Spectroscopy)", org: "University of Rhode Island, United States", detail: "Dissertation Title: \"Ultrafast Vibrational Dynamics in Emerging 2D Materials, Wide-Bandgap Semiconductors, and Dielectrics.\""},
+    {period: "Jan 2021 - Aug 2026", title: "PhD in Physics (Photonics & Ultrafast Spectroscopy)", org: "University of Rhode Island, United States", detail: "Dissertation Title: \"Ultrafast Vibrational Dynamics in Important Wide-Bandgap Semiconductors, Dielectrics and Energetic Materials.\""},
     {period: "Apr 2017 - Apr 2024", title: "PhD in Physics (Superhydrophobic Surface Replication)", org: "University of Sri Jayewardenepura, Sri Lanka", detail: "Dissertation Title: \"Soft Lithography of Natural Superhydrophobic Surfaces with an Investigation of Drop Shape Analysis Techniques.\""},
     {period: "Sep 2011 - Nov 2015", title: "BS in Physics", org: "University of Sri Jayewardenepura, Sri Lanka", detail: "Graduated with a BS Physics (Special) degree, second class upper division, with studies in Physics, Chemistry, and Polymer Science.\nFinal Year Project: Developed a low-cost CCD spectrometer using embedded systems control."}
   ],
@@ -111,7 +111,7 @@ window.PROFILE = {
     // ---- Journal articles ----
     { year: 2024, title: "Time-resolved nonlinear optical spectroscopy of perovskites.",
       authors: "Chandra P. Neupane, Jeremy Sylvester, Helani A. S. Singhapurage, R. M. D. M. Senarathna, Feruz Ganikhanov",
-      venue: "Optics Express, 32(4), 5621–5631",
+      venue: "Optics Express, 32(4), 5621-5631",
       link: "https://doi.org/10.1364/OE.509234" },
 
     { year: 2023, title: "Decay of Raman active vibrations within oxide groups of potassium titanyl phosphate.",
@@ -121,17 +121,17 @@ window.PROFILE = {
 
     { year: 2023, title: "Coherent Raman Spectroscopy of Equilibrium Phonons with Subwavenumber Resolution.",
       authors: "Dinusha Senarathna, Jeremy Sylvester, Chandra P. Neupane, Helani A. S. Singhapurage, Feruz Ganikhanov",
-      venue: "Journal of Physical Chemistry C, 127(18), 8720–8727",
+      venue: "Journal of Physical Chemistry C, 127(18), 8720-8727",
       link: "https://doi.org/10.1021/acs.jpcc.2c09045" },
 
-    { year: 2022, title: "Femtosecond coherent Raman system with >75 dB dynamic range for probing vibration modes across 250–2400 cm⁻¹.",
+    { year: 2022, title: "Femtosecond coherent Raman system with >75 dB dynamic range for probing vibration modes across 250-2400 cm⁻¹.",
       authors: "Jeremy Sylvester, Chandra P. Neupane, Helani A. S. Singhapurage, R. M. D. M. Senarathna, G. P. Sharma, Feruz Ganikhanov",
-      venue: "Optics Express, 30(13), 23930–23942",
+      venue: "Optics Express, 30(13), 23930-23942",
       link: "https://doi.org/10.1364/OE.460061" },
 
     { year: 2022, title: "Ultrafast Phonon Decay in Complex Oxides.",
       authors: "Chandra P. Neupane, Jeremy Sylvester, Dinusha M. S. R. Mudiyanselage, Helani A. S. Singhapurage, Feruz Ganikhanov",
-      venue: "Optics, 3(4), 438–446",
+      venue: "Optics, 3(4), 438-446",
       link: "https://doi.org/10.3390/opt3040037" },
 
     { year: 2020, title: "Improving superhydrophobicity of polydimethylsiloxanes using embedding fluorinated polyhedral oligomeric silsesquioxanes cages.",
@@ -191,12 +191,12 @@ window.PROFILE = {
 
     { year: 2018, title: "Development of a Low-cost Automated Micro Dispense Digital Goniometric Device with Drop Shape Analysis.",
       authors: "R. M. D. M. Senarathna, W. K. I. L. Wanniarachchi, S. Jayawardhana, D. R. Rathnaweera",
-      venue: "Moratuwa Engineering Research Conference (MERCon), 571–576" }
+      venue: "Moratuwa Engineering Research Conference (MERCon), 571-576" }
   ],
 
   contact: {
-    email: "",          // e.g. "name@university.edu"
-    location: "",       // e.g. "City, Country"
+    email: "dinusha@uri.edu",          // e.g. "name@university.edu"
+    location: "Kingston, RI, USA",       // e.g. "City, Country"
     links: [
       { label: "Google Scholar", url: "https://scholar.google.com/citations?user=XffCqxMAAAAJ&hl=en" },
       { label: "ORCID",          url: "https://orcid.org/0000-0002-7615-2719" },
